@@ -1,0 +1,9 @@
+matplotlib==3.10.0
+numpy~=2.1.2
+pillow==11.1.0
+pyparsing==3.2.1
+torch~=2.6.0+cu126
+torchaudio==2.2.2
+torchvision~=0.21.0+cu126
+
+scikit-learn~=1.6.1
